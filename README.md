@@ -56,7 +56,16 @@ print("Sample Prediction:", sample)
 
 ## Output:
 ![decision tree classifier model](sam.png)
-![image](https://github.com/user-attachments/assets/2c31263a-e0b5-4b0c-9c7b-68779de650d5)
+## EXPLORE THE DATASET
+![Screenshot 2025-04-16 223721](https://github.com/user-attachments/assets/18e99d63-425c-4443-9c84-6d4729d93ca5)
+## FEATURES AND TARGET
+![Screenshot 2025-04-16 223813](https://github.com/user-attachments/assets/5bdf41a5-1236-4ec7-abd3-c042b419fd46)
+## DECISION TREE MODEL
+![Screenshot 2025-04-16 223857](https://github.com/user-attachments/assets/1685ae0b-dd1d-41b1-bbcd-24d9630076dd)
+## ACCURACY  
+![Screenshot 2025-04-16 224033](https://github.com/user-attachments/assets/f718f84c-1561-4636-be38-2c5b52c529e2)
+## PREDICTIONS AND EVALUATE
+![Screenshot 2025-04-16 224038](https://github.com/user-attachments/assets/cabb1ba9-0d3d-4a7c-b9ba-1afba94cd779)
 
 
 ## Result:
